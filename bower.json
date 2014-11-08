@@ -1,0 +1,24 @@
+{
+  "name": "nboiler",
+  "version": "0.0.0",
+  "authors": [
+    "Kyle Stetz <kyle@punkave.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+
+  "directory": "js/vendor/",
+
+  "dependencies": {
+  }
+}

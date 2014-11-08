@@ -1,0 +1,6 @@
+/node_modules/
+/public/js/vendor/
+/public/js/_site.js
+/public/css/site.css
+.DS_Store
+npm-debug.log
